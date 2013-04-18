@@ -1,6 +1,11 @@
 FaiSimpleJavaSocket
 ===================
 
+
+
+Update juga cuy
+
 Update 18/04/2013
 
-ini punya guwa update lagi
+
+Update 2
